@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = c.reibang@gmail.com
+	name = Reibang Chakma c.reibang@gmail.com
